@@ -9,9 +9,9 @@ Proje sayımız ilerledikçe proje yönetimimizi kolaylaştırmak adına projele
 
 ### Hedeflerimiz:
 
-### Workintech Burger Company
+### Workintech com.workintech.challenge.main.Burger Company
 
- * Uygulamanın amacı, Workintech Burger adlı bir şirketin hamburgerlerini satma sürecini yönetmesine yardımcı olmaktır. 
+ * Uygulamanın amacı, Workintech com.workintech.challenge.main.Burger adlı bir şirketin hamburgerlerini satma sürecini yönetmesine yardımcı olmaktır. 
  * İlk başta 3 tane yeni sınıf oluşturmalısınız. ```Hamburger```, ```DeluxeBurger```, ```HealthyBurger```(Hamburger sınıfını ana sınıf olarak dizayn etmelsiniz)
  * Hamburger sınıfı içerisinde 4 tane değişken tanımlamalısınız. ```name```, ```meat```, ```price```, ```breadRollType``` price değişkeni double olmalı. Kalanları String olarak tanımlayabilirsiniz.
  * Hamburger'in üzerine başka malzemeler eklenebilir. Bunları şu isimlerle tutmalıyız. addition1Name, addition1Price, addition2Name, addition2Price, addition3Name, addition3Price, addition4Name ve addition4Price. İsim tutan değişkenler String olmalı, price tutan değişkenler double olarak tanımlanmalı.
@@ -38,7 +38,7 @@ Proje sayımız ilerledikçe proje yönetimimizi kolaylaştırmak adına projele
 
  hamburger.itemizeHamburger();
 
- HealthyBurger healthyBurger = new HealthyBurger("Vegan Burger", 5.67, "Sandwich");
+ HealthyBurger healthyBurger = new HealthyBurger("Vegan com.workintech.challenge.main.Burger", 5.67, "Sandwich");
 
  healthyBurger.addHamburgerAddition1("Egg", 5.43);
 
@@ -70,7 +70,7 @@ Price: 5.71
 
 ------------------------
 
-Name: Vegan Burger
+Name: Vegan com.workintech.challenge.main.Burger
 
 Meat: Tofu
 
@@ -84,9 +84,9 @@ Price: 14.51
 
 ------------------------
 
-Deluxe Burger için yeni malzeme eklenemez
+Deluxe com.workintech.challenge.main.Burger için yeni malzeme eklenemez
 
-Name: Deluxe Burger
+Name: Deluxe com.workintech.challenge.main.Burger
 
 Meat: Double
 
